@@ -1,0 +1,5 @@
+print(2+2)
+print('hello world')
+name = input()
+age = int(input())
+print('привет', name, 'охо тебе уже лет', age)
